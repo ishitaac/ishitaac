@@ -3,11 +3,11 @@
 Hi there! I am Ishita 👋
 I'm an aspiring data analyst/ product manager
 
-🌱 Currently learning artificial intelligence, advanced data analytics and statistics techniques.
-🔭 Collaborating on data-driven projects with peers.
-💬 Keen interest in data science and product management especially AI driven products
-📫 Connect with me: 
-😄 Pronouns: She/her.
+🌱 Currently learning artificial intelligence, advanced data analytics and statistics techniques. <br>
+🔭 Collaborating on data-driven projects with peers. <br>
+💬 Keen interest in data science and product management especially AI driven products <br>
+📫 Connect with me: <br>
+😄 Pronouns: She/her.<br>
 ⚡ Fun fact: I absolutely love to travel!
 
 Technical Skills:
