@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi there! I am Ishita👋
+
+Hi there! I am Ishita 👋
+I'm an aspiring data analyst/ product manager
+
+🌱 Currently learning artificial intelligence, advanced data analytics and statistics techniques.
+🔭 Collaborating on data-driven projects with peers.
+💬 Keen interest in data science and product management especially AI driven products
+📫 Connect with me: 
+😄 Pronouns: She/her.
+⚡ Fun fact: I absolutely love to travel!
+
+Technical Skills:
+
 
 <!--
 **ishitaac/ishitaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
