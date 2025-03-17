@@ -1,6 +1,5 @@
 ## Hi there! I am Ishita👋
 
-Hi there! I am Ishita 👋
 I'm an aspiring data analyst/ product manager
 
 🌱 Currently learning artificial intelligence, advanced data analytics and statistics techniques. <br>
